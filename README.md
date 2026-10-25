@@ -4,7 +4,7 @@
 Open `index.html` in a modern browser. No build tools or installation are required.
 
 ## Customize first
-1. The portfolio is personalized with the name `Ajdhine Barbon`. Update it if needed.
+1. The portfolio is personalized with the name `Joshua B. Sarda`. Update it if needed.
 2. Replace the profile photo URL in `.profile-photo` with your own image.
 3. Replace the sample projects with your actual projects, descriptions, screenshots, role, tools, and outcomes.
 4. Update education, experience, skills, and writing samples.
